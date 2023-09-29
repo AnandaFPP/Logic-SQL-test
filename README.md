@@ -19,4 +19,4 @@ Untuk menyelesaikan Ujian SQL menggunakan PostgreSQL, silakan ikuti petunjuk ber
 2. Buka direktori Ujian SQL.
 3. Buka dan eksekusi skrip SQL sesuai dengan urutan yang telah disediakan:
     Buka terminal atau klien PostgreSQL pilihan Anda.
-    Salin dan tempelkan isi dari querry.sql ke dalam klien Anda, lalu eksekusi.
+    Salin dan tempelkan isi dari query.sql ke dalam klien Anda, lalu eksekusi.
